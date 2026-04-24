@@ -101,3 +101,9 @@ This repo is focused on the current local-reader workflow:
 - live terminal highlight
 
 It is not a browser extension or a full desktop document reader.
+
+## Project Page
+
+Portfolio page:
+
+https://tonimcqueen.com/project_texttospeechhighlighted.html
